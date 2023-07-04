@@ -1,1 +1,1 @@
-# shoppi-ng-backend
+# shoppiNG-backend
